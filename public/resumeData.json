@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Dyondzani Clement Masinge",
+    "occupation": "Fullstack Developer",
+    "description": "with HTML5, CSS3, PHP, Java Script, React and Redux .",
+    "image": "dc.jpg",
+    "bio": "My name is Dyondzani, I'm a Full Stack ReactJS Developer. Currently not working and open for work to start immidiatly.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "masinge322@gmail.com",
+    "phone": "+27 60 632 0464",
+    "Cell": "+27 84 327 6765",
+    "address": {
+      "street": "1886, Block L",
+      "city": "Pretoria/ Soshanguve",
+      "state": "South Africa",
+      "zip": "0152"
+    },
+    "website": "http://demodev.netlify.com",
+    "resumedownload": "https://cdn-141.anonfiles.com/7bLerbtft8/faaca920-1615900146/Curriculum%20Vitae.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHkci1coO",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/masinge323",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I completed a 12-month quality work experience with the Youth Employment Services. YES offered excellent work readiness modules and were able to track my progress at work via their digital apps.",
+    "education": [
+      {
+        "school": "Mbhanyele Secondary",
+        "degree": "Nsc Grage 12",
+        "graduated": "Nov 2014",
+        "description": "Graduated with diploma"
+      }
+    ],
+    "work": [
+      {
+        "company": "Babcock Ntuthuko Engineering (Pty) Ltd",
+        "title": "Junior Developer",
+        "years": "Nov 2019 - Nov 2020",
+        "description": "Working with Php, React and Redux under the YES programme."
+      },
+      {
+        "company": "Mobeela Filling Station",
+        "title": "Cassual Petrol Attandent",
+        "years": "Feb 2020 - Sep 2020 ",
+        "description": "Dispersing Fuel, Checking Water and engine oil level, Checking Tire Pressure, Stork Tacking, Cashier Assistant."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "93%"
+      },
+      {
+        "name": "PHP",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      }, 
+      {
+        "name": "CSS3",
+        "level": "100%"
+      },{
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "81%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid Tracker",
+        "category": "Tracking Device",
+        "image": "covid.png",
+        "url": "https://staysafe19.netlify.app"
+      },
+      {
+        "title": "mishopsa",
+        "category": "E-commerce",
+        "image": "mishopsa.png",
+        "url": "https://mishopsa.herokuapp.com/"
+      },
+      {
+        "title": "Demo Developers",
+        "category": "Static Website",
+        "image": "demo.png",
+        "url": "https://demodevelopers.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You love this thing of programing so much and I just find myself trusting you man with this self-tought knowledge you gonna be a great man, just follow your dreams bruh, one day you'll get a job of your dream",
+        "user": "Hlulani"
+      },
+      {
+        "text": "Your IT things man you doing, I can't beleve you never went to class for this, you're amaizing. I just wonder what was in your mind when you learn these things!",
+        "user": "Maxwel"
+      }
+      
+    ]
+  }
+}
