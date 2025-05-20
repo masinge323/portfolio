@@ -15,17 +15,17 @@
       "state": "South Africa",
       "zip": "0152"
     },
-    "website": "http://demodev.netlify.com",
-    "resumedownload": "https://cdn-141.anonfiles.com/7bLerbtft8/faaca920-1615900146/Curriculum%20Vitae.pdf",
+    "website": "https://tyzarprofile.netlify.app",
+    "resumedownload": "https://issuu.com/masinge322/docs/resume_1_1_",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/",
+        "url": "https://www.facebook.com/clement.dyondzani.5/about",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHkci1coO",
+        "url": "Check out Dyondzani Clement Masinge’s profile on LinkedIn https://za.linkedin.com/in/dyondzani-clement-masinge-a60b8a129",
         "className": "fa fa-linkedin"
       },
       {
@@ -48,7 +48,13 @@
         "degree": "Nsc Grage 12",
         "graduated": "Nov 2014",
         "description": "Graduated with diploma"
-      }
+      },
+       {
+         "school": "Alison (online)"
+         "degree": "Diploma in Fiber Optic"
+         "Graduated": "July 2024"
+         "Description": "Graduated with A grade"}
+
     ],
     "work": [
       {
@@ -62,12 +68,19 @@
         "title": "Cassual Petrol Attandent",
         "years": "Feb 2020 - Sep 2020 ",
         "description": "Dispersing Fuel, Checking Water and engine oil level, Checking Tire Pressure, Stork Tacking, Cashier Assistant."
+      },
+      {
+        "company": "MCT Telecommunications (known as Britelink MCT)"
+        "title": "FTTH Maintenance Technician"
+        "years": "June 2022 - current work"
+        "description": "Preventative Maintenance,  Resolving Outages, Testing Fiber with iOLM | OTDR | Pon Meter, daily report, complete and close assigned jobs on app,allocation of stock on each job done, completing live sheets with NWI stock, advocat task, etc.
       }
+      
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "93%"
+        "level": "90%"
       },
       {
         "name": "PHP",
@@ -88,6 +101,12 @@
         "name": "JavaScript",
         "level": "100%"
       },
+{"name": "Flutter",
+  "level": "96%"
+},
+{"name": "splicing",
+  "leve": "94%"
+},
       {
         "name": "Firebase",
         "level": "75%"
@@ -95,6 +114,14 @@
       {
         "name": "MongoDB",
         "level": "81%"
+      },
+      {
+        "name": "problem solving",
+        "level": "89.9%"
+      },
+      {
+        "name": "computer skill",
+        "level": "99%
       }
     ]
   },
