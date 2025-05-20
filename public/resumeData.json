@@ -121,7 +121,7 @@
       },
       {
         "name": "computer skill",
-        "level": "99%
+        "level": "99%"
       }
     ]
   },
@@ -134,16 +134,16 @@
         "url": "https://staysafe19.netlify.app"
       },
       {
-        "title": "mishopsa",
-        "category": "E-commerce",
+        "title": "Kuyithula Projects Website",
+        "category": "professional business",
         "image": "mishopsa.png",
-        "url": "https://mishopsa.herokuapp.com/"
+        "url": "https://ktlprojects.co.za/"
       },
       {
-        "title": "Demo Developers",
+        "title": "Bepro Management Consultancy Website",
         "category": "Static Website",
         "image": "demo.png",
-        "url": "https://demodev.netlify.app/"
+        "url": "https://bepromco.co.za/"
       }
     ]
   },
